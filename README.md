@@ -1,7 +1,7 @@
 latitude
 ========
 
-_A Free Genesis Child Theme_, thanks to [@aaronhartland](https://github.com/aaronhartland).
+_A free [Genesis](http://vdevices.com/referral/genesis-features/) [Child Theme](http://vdevices.com/referral/genesis-themes/)_, thanks to [@aaronhartland](https://github.com/aaronhartland).
 
 ## Current Development
 
